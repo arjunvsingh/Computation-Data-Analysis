@@ -1,0 +1,887 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.23)  24 MAY 2020 18:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"ISyE 6740 HW1 Arjun Singh.tex"
+(./ISyE 6740 HW1 Arjun Singh.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count99
+\float@exts=\toks25
+\float@box=\box28
+\@float@everytoks=\toks26
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks27
+\c@algorithm=\count100
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+\c@ALC@unique=\count101
+\c@ALC@line=\count102
+\c@ALC@rem=\count103
+\c@ALC@depth=\count104
+\ALC@tlm=\skip50
+\algorithmicindent=\skip51
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+\c@ContinuedFloat=\count106
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count107
+\c@subtable=\count108
+)
+(./ISyE 6740 HW1 Arjun Singh.aux
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-fourth' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-fourth' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-fourth' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-fourth' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-fourth' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-fourth' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-second' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-third' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub-first' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig' multiply defined.
+
+)
+\openout1 = `"ISyE 6740 HW1 Arjun Singh.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen121
+\scratchbox=\box30
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen122
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 32.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+
+ []
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<Images/points.png, id=16, 239.89626pt x 203.76125pt>
+File: Images/points.png Graphic file (type png)
+ <use Images/points.png>
+Package pdftex.def Info: Images/points.png used on input line 69.
+(pdftex.def)             Requested size: 268.0011pt x 227.62204pt.
+
+[2 <./Images/points.png>] <Images/Step1.png, id=22, 464.73625pt x 306.14375pt>
+File: Images/Step1.png Graphic file (type png)
+
+<use Images/Step1.png>
+Package pdftex.def Info: Images/Step1.png used on input line 87.
+(pdftex.def)             Requested size: 219.41174pt x 144.54pt.
+ <Images/Step2.png, id=23, 510.90875pt x 333.245pt>
+File: Images/Step2.png Graphic file (type png)
+
+<use Images/Step2.png>
+Package pdftex.def Info: Images/Step2.png used on input line 93.
+(pdftex.def)             Requested size: 221.60425pt x 144.54pt.
+
+Overfull \hbox (4.44441pt too wide) in paragraph at lines 85--96
+ [][]  [] 
+ []
+
+<Images/Step3.png, id=24, 510.90875pt x 333.245pt>
+File: Images/Step3.png Graphic file (type png)
+ <use Images/Step3.png>
+Package pdftex.def Info: Images/Step3.png used on input line 103.
+(pdftex.def)             Requested size: 221.60425pt x 144.54pt.
+
+<Images/Step4.png, id=25, 491.8375pt x 300.12125pt>
+File: Images/Step4.png Graphic file (type png)
+ <use Images/Step4.png>
+Package pdftex.def Info: Images/Step4.png used on input line 109.
+(pdftex.def)             Requested size: 236.87482pt x 144.54pt.
+
+Overfull \hbox (1.99731pt too wide) in paragraph at lines 109--110
+ [][] 
+ []
+
+
+Overfull \hbox (4.44441pt too wide) in paragraph at lines 101--112
+ [][]  [] 
+ []
+
+
+Underfull \vbox (badness 1881) has occurred while \output is active []
+
+ [3 <./Images/Step1.png> <./Images/Step2.png> <./Images/Step3.png> <./Images/St
+ep4.png>]
+[4] <Images/TechTower.jpg, id=39, 240.9pt x 353.32pt>
+File: Images/TechTower.jpg Graphic file (type jpg)
+
+<use Images/TechTower.jpg>
+Package pdftex.def Info: Images/TechTower.jpg used on input line 185.
+(pdftex.def)             Requested size: 73.91365pt x 108.405pt.
+
+<Images/TechTowerKMedoids2.png, id=40, 188.705pt x 252.945pt>
+File: Images/TechTowerKMedoids2.png Graphic file (type png)
+
+<use Images/TechTowerKMedoids2.png>
+Package pdftex.def Info: Images/TechTowerKMedoids2.png used on input line 192.
+(pdftex.def)             Requested size: 80.87378pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 182--196
+[]$[]$ $[]$ 
+ []
+
+<Images/TechTowerKMedoids12.png, id=41, 188.705pt x 252.945pt>
+File: Images/TechTowerKMedoids12.png Graphic file (type png)
+
+<use Images/TechTowerKMedoids12.png>
+Package pdftex.def Info: Images/TechTowerKMedoids12.png used on input line 200.
+
+(pdftex.def)             Requested size: 80.87378pt x 108.405pt.
+
+<Images/TechTowerKMedoids100.png, id=42, 188.705pt x 252.945pt>
+File: Images/TechTowerKMedoids100.png Graphic file (type png)
+
+<use Images/TechTowerKMedoids100.png>
+Package pdftex.def Info: Images/TechTowerKMedoids100.png used on input line 207
+.
+(pdftex.def)             Requested size: 80.87378pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 197--211
+[]$[]$ $[]$ 
+ []
+
+<Images/football.png, id=43, 298.716pt x 198.5016pt>
+File: Images/football.png Graphic file (type png)
+ <use Images/football.png>
+Package pdftex.def Info: Images/football.png used on input line 219.
+(pdftex.def)             Requested size: 163.132pt x 108.405pt.
+
+<Images/footballkmedoids4.png, id=44, 368.37625pt x 252.945pt>
+File: Images/footballkmedoids4.png Graphic file (type png)
+
+<use Images/footballkmedoids4.png>
+Package pdftex.def Info: Images/footballkmedoids4.png used on input line 226.
+(pdftex.def)             Requested size: 157.87595pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 216--230
+[]$[]$ $[]$ 
+ []
+
+<Images/footballkmedoids14.png, id=45, 368.37625pt x 252.945pt>
+File: Images/footballkmedoids14.png Graphic file (type png)
+
+<use Images/footballkmedoids14.png>
+Package pdftex.def Info: Images/footballkmedoids14.png used on input line 234.
+(pdftex.def)             Requested size: 157.87595pt x 108.405pt.
+
+<Images/footballkmedoids50.png, id=46, 368.37625pt x 252.945pt>
+File: Images/footballkmedoids50.png Graphic file (type png)
+
+<use Images/footballkmedoids50.png>
+Package pdftex.def Info: Images/footballkmedoids50.png used on input line 241.
+(pdftex.def)             Requested size: 157.87595pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 231--245
+[]$[]$ $[]$ 
+ []
+
+<Images/beach.png, id=47, 154.176pt x 103.1052pt>
+File: Images/beach.png Graphic file (type png)
+ <use Images/beach.png>
+Package pdftex.def Info: Images/beach.png used on input line 253.
+(pdftex.def)             Requested size: 162.10597pt x 108.405pt.
+
+<Images/beachkmedoids2.png, id=48, 366.36874pt x 252.945pt>
+File: Images/beachkmedoids2.png Graphic file (type png)
+
+<use Images/beachkmedoids2.png>
+Package pdftex.def Info: Images/beachkmedoids2.png used on input line 260.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 250--264
+[]$[]$ $[]$ 
+ []
+
+<Images/beachkmedoids16.png, id=49, 366.36874pt x 252.945pt>
+File: Images/beachkmedoids16.png Graphic file (type png)
+
+<use Images/beachkmedoids16.png>
+Package pdftex.def Info: Images/beachkmedoids16.png used on input line 268.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+<Images/beachkmedoids32.png, id=50, 366.36874pt x 252.945pt>
+File: Images/beachkmedoids32.png Graphic file (type png)
+
+<use Images/beachkmedoids32.png>
+Package pdftex.def Info: Images/beachkmedoids32.png used on input line 275.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 265--279
+[]$[]$ $[]$ 
+ []
+
+[5] [6 <./Images/TechTower.jpg> <./Images/TechTowerKMedoids2.png> <./Images/Tec
+hTowerKMedoids12.png> <./Images/TechTowerKMedoids100.png> <./Images/football.pn
+g> <./Images/footballkmedoids4.png> <./Images/footballkmedoids14.png> <./Images
+/footballkmedoids50.png>]
+<Images/TechTowerSameInitPoints.png, id=64, 188.705pt x 252.945pt>
+File: Images/TechTowerSameInitPoints.png Graphic file (type png)
+
+<use Images/TechTowerSameInitPoints.png>
+Package pdftex.def Info: Images/TechTowerSameInitPoints.png used on input line 
+302.
+(pdftex.def)             Requested size: 80.87378pt x 108.405pt.
+
+<Images/Beachkmedoids2.png, id=65, 366.36874pt x 252.945pt>
+File: Images/Beachkmedoids2.png Graphic file (type png)
+
+<use Images/Beachkmedoids2.png>
+Package pdftex.def Info: Images/Beachkmedoids2.png used on input line 309.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 299--313
+[]$[]$ $[]$ 
+ []
+
+<Images/Beachkmedoids2Run2.png, id=66, 366.36874pt x 252.945pt>
+File: Images/Beachkmedoids2Run2.png Graphic file (type png)
+
+<use Images/Beachkmedoids2Run2.png>
+Package pdftex.def Info: Images/Beachkmedoids2Run2.png used on input line 317.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+<Images/Beachkmedoids2Run3.png, id=67, 366.36874pt x 252.945pt>
+File: Images/Beachkmedoids2Run3.png Graphic file (type png)
+
+<use Images/Beachkmedoids2Run3.png>
+Package pdftex.def Info: Images/Beachkmedoids2Run3.png used on input line 324.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 314--328
+[]$[]$ $[]$ 
+ []
+
+[7 <./Images/beach.png> <./Images/beachkmedoids2.png> <./Images/beachkmedoids16
+.png> <./Images/beachkmedoids32.png>]
+File: Images/TechTower.jpg Graphic file (type jpg)
+ <use Images/TechTower.jpg>
+Package pdftex.def Info: Images/TechTower.jpg used on input line 350.
+(pdftex.def)             Requested size: 73.91365pt x 108.405pt.
+
+<Images/techtowerkmeans2.png, id=75, 188.705pt x 252.945pt>
+File: Images/techtowerkmeans2.png Graphic file (type png)
+
+<use Images/techtowerkmeans2.png>
+Package pdftex.def Info: Images/techtowerkmeans2.png used on input line 357.
+(pdftex.def)             Requested size: 80.87378pt x 108.405pt.
+
+<Images/techtowerkmeans12.png, id=76, 188.705pt x 252.945pt>
+File: Images/techtowerkmeans12.png Graphic file (type png)
+
+<use Images/techtowerkmeans12.png>
+Package pdftex.def Info: Images/techtowerkmeans12.png used on input line 364.
+(pdftex.def)             Requested size: 80.87378pt x 108.405pt.
+
+<Images/techtowerkmeans50.png, id=77, 188.705pt x 252.945pt>
+File: Images/techtowerkmeans50.png Graphic file (type png)
+
+<use Images/techtowerkmeans50.png>
+Package pdftex.def Info: Images/techtowerkmeans50.png used on input line 371.
+(pdftex.def)             Requested size: 80.87378pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 347--375
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 347--375
+[]$ $[]$ 
+ []
+
+File: Images/football.png Graphic file (type png)
+<use Images/football.png>
+Package pdftex.def Info: Images/football.png used on input line 384.
+(pdftex.def)             Requested size: 163.132pt x 108.405pt.
+
+<Images/footballkmeans3.png, id=78, 368.37625pt x 252.945pt>
+File: Images/footballkmeans3.png Graphic file (type png)
+
+<use Images/footballkmeans3.png>
+Package pdftex.def Info: Images/footballkmeans3.png used on input line 391.
+(pdftex.def)             Requested size: 157.87595pt x 108.405pt.
+
+<Images/footballkmeans16.png, id=79, 368.37625pt x 252.945pt>
+File: Images/footballkmeans16.png Graphic file (type png)
+
+<use Images/footballkmeans16.png>
+Package pdftex.def Info: Images/footballkmeans16.png used on input line 398.
+(pdftex.def)             Requested size: 157.87595pt x 108.405pt.
+
+<Images/footballkmeans32.png, id=80, 368.37625pt x 252.945pt>
+File: Images/footballkmeans32.png Graphic file (type png)
+
+<use Images/footballkmeans32.png>
+Package pdftex.def Info: Images/footballkmeans32.png used on input line 405.
+(pdftex.def)             Requested size: 157.87595pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 381--409
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 381--409
+[]$ $[]$ 
+ []
+
+File: Images/beach.png Graphic file (type png)
+<use Images/beach.png>
+Package pdftex.def Info: Images/beach.png used on input line 420.
+(pdftex.def)             Requested size: 162.10597pt x 108.405pt.
+
+<Images/Beachkmeans2.png, id=81, 366.36874pt x 252.945pt>
+File: Images/Beachkmeans2.png Graphic file (type png)
+
+<use Images/Beachkmeans2.png>
+Package pdftex.def Info: Images/Beachkmeans2.png used on input line 427.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+<Images/Beachkmeans16.png, id=82, 366.36874pt x 252.945pt>
+File: Images/Beachkmeans16.png Graphic file (type png)
+
+<use Images/Beachkmeans16.png>
+Package pdftex.def Info: Images/Beachkmeans16.png used on input line 434.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+<Images/Beachkmeans32.png, id=83, 366.36874pt x 252.945pt>
+File: Images/Beachkmeans32.png Graphic file (type png)
+
+<use Images/Beachkmeans32.png>
+Package pdftex.def Info: Images/Beachkmeans32.png used on input line 441.
+(pdftex.def)             Requested size: 157.01558pt x 108.405pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 417--445
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 417--445
+[]$ $[]$ 
+ []
+
+[8 <./Images/TechTowerSameInitPoints.png> <./Images/Beachkmedoids2.png> <./Imag
+es/Beachkmedoids2Run2.png> <./Images/Beachkmedoids2Run3.png>] [9 <./Images/tech
+towerkmeans2.png> <./Images/techtowerkmeans12.png> <./Images/techtowerkmeans50.
+png> <./Images/footballkmeans3.png> <./Images/footballkmeans16.png> <./Images/f
+ootballkmeans32.png>]
+<Images/InitialCluster.png, id=100, 447.6725pt x 303.1325pt>
+File: Images/InitialCluster.png Graphic file (type png)
+
+<use Images/InitialCluster.png>
+Package pdftex.def Info: Images/InitialCluster.png used on input line 499.
+(pdftex.def)             Requested size: 213.45952pt x 144.54pt.
+ [10 <./Images/Beachkmeans2.png> <./Images/Beachkmeans16.png> <./Images/Beachkm
+eans32.png>]
+<Images/InitialClusterCleaned.png, id=107, 447.6725pt x 303.1325pt>
+File: Images/InitialClusterCleaned.png Graphic file (type png)
+
+<use Images/InitialClusterCleaned.png>
+Package pdftex.def Info: Images/InitialClusterCleaned.png used on input line 51
+9.
+(pdftex.def)             Requested size: 213.45952pt x 144.54pt.
+
+<Images/PredictedCluster.png, id=108, 447.6725pt x 303.1325pt>
+File: Images/PredictedCluster.png Graphic file (type png)
+
+<use Images/PredictedCluster.png>
+Package pdftex.def Info: Images/PredictedCluster.png used on input line 526.
+(pdftex.def)             Requested size: 213.45952pt x 144.54pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 516--530
+[]$[]$ $[]$ 
+ []
+
+[11 <./Images/InitialCluster.png> <./Images/InitialClusterCleaned.png> <./Image
+s/PredictedCluster.png>] [12]
+<Images/PCA1.png, id=119, 1057.9525pt x 561.09625pt>
+File: Images/PCA1.png Graphic file (type png)
+ <use Images/PCA1.png>
+Package pdftex.def Info: Images/PCA1.png used on input line 580.
+(pdftex.def)             Requested size: 340.65031pt x 180.67499pt.
+
+<Images/PCA2.png, id=120, 1057.9525pt x 561.09625pt>
+File: Images/PCA2.png Graphic file (type png)
+ <use Images/PCA2.png>
+Package pdftex.def Info: Images/PCA2.png used on input line 588.
+(pdftex.def)             Requested size: 340.65031pt x 180.67499pt.
+
+<Images/PCAFoods.png, id=121, 955.57pt x 591.20876pt>
+File: Images/PCAFoods.png Graphic file (type png)
+
+<use Images/PCAFoods.png>
+Package pdftex.def Info: Images/PCAFoods.png used on input line 598.
+(pdftex.def)             Requested size: 350.42049pt x 216.81pt.
+
+<Images/PCAScatter.png, id=122, 965.6075pt x 591.20876pt>
+File: Images/PCAScatter.png Graphic file (type png)
+
+<use Images/PCAScatter.png>
+Package pdftex.def Info: Images/PCAScatter.png used on input line 615.
+(pdftex.def)             Requested size: 354.10138pt x 216.81pt.
+ [13] [14 <./Images/PCA1.png> <./Images/PCA2.png>]
+[15 <./Images/PCAFoods.png> <./Images/PCAScatter.png>]
+(./ISyE 6740 HW1 Arjun Singh.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3856 strings out of 492995
+ 60022 string characters out of 6132703
+ 127131 words of memory out of 5000000
+ 7307 multiletter control sequences out of 15000+600000
+ 12314 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,7n,40p,800b,636s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "ISyE 6740 HW1 Arjun Singh.pdf" (15 pages, 1653999 bytes).
+PDF statistics:
+ 185 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+
